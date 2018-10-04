@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Xuanyi-Yu
 pdf: true
 ---
 # Xuanyi __Yu__
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://www.cs.cmu.edu/~woden" style="margin-left:0.5em">cs.cmu.edu/~woden</a>
+<a href="http://www.yuxuanyi-also-ivy.me" style="margin-left:0.5em">yuxuanyi-also-ivy.me</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="woden@cs.cmu.edu" style="margin-left:0.5em">woden@cs.cmu.edu</a>
+<a href="ivy08588@gmail.com" style="margin-left:0.5em">ivy08588@gmail.com</a>
 </div>
 
 ## Education
@@ -41,17 +41,13 @@ __Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
 
 ## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
+### __Tsinghua University, __  `2017.5 - 2017.8`
 _Research Assistant_<br>
 __Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
-### __Columbia University, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
+### __University of California, Los Angeles, Perceptual Processing and Computational Lab__ `2017.7 - 2017.9`
 _Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+Worked with prof. Zili Liu, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
 
 ## Teaching
