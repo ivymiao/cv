@@ -3,7 +3,7 @@ layout: cv
 title: Wode "Nimo" Ni
 pdf: true
 ---
-# Wode __Ni__
+# Xuanyi __Yu__
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
@@ -14,25 +14,17 @@ pdf: true
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __University of California, San Diego__ `2018.9 -`
 ```
-Pittsburgh, PA
+San Diego, CA
 ```
-- Ph.D. in Software Engineering
+- Master in Computer Science
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __Tsinghua University__ `2014.9 - 2018.7`
 ```
-New York, NY
+Beijing, China
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.S. in Electronic Engineering
 
 ## Publications
 
