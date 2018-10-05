@@ -30,31 +30,33 @@ Beijing, China
 
 ### __Tsinghua University, Speech Processing and Machine Intelligence Lab__  `2018.3 - 2018.6`
 _Research Assistant_<br>
-Advised by prof. Xi Xiao, on __Software Development of Speech Recognition Based on DSP__ project, I ported a GMM-HMM speech recognition software from Windows systems to ADI SHARC Digital signal processor, and implemented several driver programs to communicate with peripherals on SHARC 
+- Advised by prof. Xi Xiao, on __Software Development of GMM-HMM Speech Recognition Based on DSP__ project
+- Ported a GMM-HMM phrase speech recognition software from PC to ADI ADSP-21469 digital signal processor, and developed several driver programs to communicate with peripherals on a ADSP-21469 custom board.
+- Intergrated a new function which can communicate with PC through UART to transfer information and data.
+- Rewrote kernel recoginition functions in assemble languages to improve the speed of software.
 
 ### __University of California, Los Angeles, Perceptual Processing and Computational Lab__ `2017.7 - 2017.9`
 _Research Assistant_<br>
-Worked with prof. Zili Liu, on __Computational Motion Processing__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM). 
+- Worked with prof. Zili Liu, on __Computational Motion Processing__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM). 
+- Used the best possible SVM to conduct multivarite pattern analysis on our fMRI data from the entire MT, and finally proved that suppressed MT still could process directional information under motion opponency.
 
 
 ## Selected Projects
 
 ### Social Network Analysis of Weibo Hot Topics Based on Python `2017.6`
-Analysed the social relationship and feature of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social relationship by drawing directed graph.
+- Analysed the social relationship and feature of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social relationship by drawing directed graph.
+
+### Music Synthesis System `2016.6`
+- Synthesized melody based on the existing music scores, and analyzed and imitated the sounds of different instruments.
 
 ### Kernel Porting of VAD Tree in Windows 
 
 
 ## Honors & Awards
 
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+Study Progress Scholarship,  `Tsinghua University, 2017` <br>
+Excellent Volunteer Scholarship `Tsinghua University, 2015` <br>
+
 
 <!-- ### Footer
 
