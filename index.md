@@ -14,7 +14,7 @@ pdf: true
 
 ## Education
 
-### __University of California, San Diego__ `2018.9 -`
+### __University of California, San Diego__ `2018.9 - present`
 ```
 San Diego, CA
 ```
@@ -26,36 +26,23 @@ Beijing, China
 ```
 - B.S. in Electronic Engineering
 
-## Publications
-
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
-
 ## Experience
 
-### __Tsinghua University, __  `2017.5 - 2017.8`
+### __Tsinghua University, Speech Processing and Machine Intelligence Lab__  `2018.3 - 2018.6`
 _Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+Advised by prof. Xi Xiao, on __Software Development of Speech Recognition Based on DSP__ project, I ported a GMM-HMM speech recognition software from Windows systems to ADI SHARC Digital signal processor, and implemented several driver programs to communicate with peripherals on SHARC 
 
 ### __University of California, Los Angeles, Perceptual Processing and Computational Lab__ `2017.7 - 2017.9`
 _Research Assistant_<br>
-Worked with prof. Zili Liu, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+Worked with prof. Zili Liu, on __Computational Motion Processing__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM). 
 
 
-## Teaching
+## Selected Projects
 
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+### Social Network Analysis of Weibo Hot Topics Based on Python `2017.6`
+Analysed the social relationship and feature of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social relationship by drawing directed graph.
+
+### Kernel Porting of VAD Tree in Windows 
 
 
 ## Honors & Awards
