@@ -14,7 +14,7 @@ pdf: true
 
 ## Education
 
-### __University of California, San Diego__ `2018.9 - present`
+### __University of California, San Diego__ `2018.9 - Present`
 ```
 San Diego, CA
 ```
