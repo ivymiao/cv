@@ -24,9 +24,10 @@ Beijing, China
 - B.S. in Electronic Engineering
 
 __Related Courses and Score:__<br>
-Advanced Matlab Programming and Its Application: `93` <br>
-Digital Signal Processing: `92` <br>
-Probability and Stochastic Processes (1): `100` <br>
+
+_Advanced Matlab Programming and Its Application_  `93` <br>
+_Digital Signal Processing_   `92` <br>
+_Probability and Stochastic Processes (1)_ `100` <br>
 
 ## Experience
 
@@ -62,7 +63,7 @@ _Research Assistant_<br>
 
 ## Honors & Awards
 
-Study Progress Scholarship,  `Tsinghua University, 2017` <br>
+Study Progress Scholarship  `Tsinghua University, 2017` <br>
 Excellent Volunteer Scholarship `Tsinghua University, 2015` <br>
 
 
