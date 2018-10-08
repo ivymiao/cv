@@ -23,7 +23,7 @@ Beijing, China
 ```
 - B.S. in Electronic Engineering
 
-_Related Courses and Score:__<br>
+__Related Courses and Score:__<br>
 Advanced Matlab Programming and Its Application: `93`
 Digital Signal Processing: `92`
 Probability and Stochastic Processes (1): `100`
