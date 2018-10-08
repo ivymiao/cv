@@ -5,7 +5,7 @@ pdf: true
 ---
 # Xuanyi __Yu__
 
-<i class="fi-mail" style="text-align: center"></i>
+<i class="fi-mail" style="align：center"></i>
 <a href="ivy08588@gmail.com" style="margin-left:0.5em">ivy08588@gmail.com</a>
 
 
@@ -22,12 +22,6 @@ San Diego, CA
 Beijing, China
 ```
 - B.S. in Electronic Engineering
-
-_Related Courses and Score:_<br>
-
-Advanced Matlab Programming and Its Application  `93` <br>
-Digital Signal Processing   `92` <br>
-Probability and Stochastic Processes (1) `100` <br>
 
 ## Experience
 
