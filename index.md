@@ -5,9 +5,6 @@ pdf: true
 ---
 # Xuanyi __Yu__
 
-<div id="webaddress">
-<i class="fi-home" style="margin-left:1em"></i>
-<a href="http://www.yuxuanyi-also-ivy.me" style="margin-left:0.5em">yuxuanyi-also-ivy.me</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="ivy08588@gmail.com" style="margin-left:0.5em">ivy08588@gmail.com</a>
 </div>
@@ -25,6 +22,11 @@ San Diego, CA
 Beijing, China
 ```
 - B.S. in Electronic Engineering
+
+_Related Courses and Score:__
+Advanced Matlab Programming and Its Application `93`
+Digital Signal Processing `92`
+Probability and Stochastic Processes (1) `100`
 
 ## Experience
 
@@ -46,11 +48,17 @@ _Research Assistant_<br>
 ### Social Network Analysis of Weibo Hot Topics Based on Python `2017.6`
 - Analysed the social relationship and feature of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social relationship by drawing directed graph.
 
-### Music Synthesis System `2016.6`
+### Software Development of Image Processing Based on MATLAB`2017.5`
+-	Designed a program with multiple functions as sharpening, smoothing and contrast enhancement, and rendered a GUI interface that enabled users to change parameters of image processing.
+
+### Stock Trends Prediction Based on Gaussian Process Regression `2017.1`
+- Used GPR to capture changes in stock price with kernel function, and predicted the stock price next day based on the prices before, implemented in MATLAB.
+
+### Detection and Recognition of DTMF Signals `2016.11`
+-	Detected and recognized DTMF signals based on Goertzel algorithm by C++.
+
+### Music Synthesis System Based on MATLAB`2016.6`
 - Synthesized melody based on the existing music scores, and analyzed and imitated the sounds of different instruments.
-
-### Kernel Porting of VAD Tree in Windows 
-
 
 ## Honors & Awards
 
