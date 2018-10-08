@@ -37,7 +37,7 @@ _Research Assistant_<br>
 
 ### __University of California, Los Angeles, Perceptual Processing and Computational Lab__ `2017.7 - 2017.9`
 _Research Assistant_<br>
-- Worked with prof. Zili Liu, on __Computational Motion Processing__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM). 
+- Worked with prof. Zili Liu, on __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/computational-motion-processing/)__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM). 
 - Used the best possible SVM to conduct multivarite pattern analysis on our fMRI data from the entire MT, and finally proved that suppressed MT still could process directional information under motion opponency.
 
 
