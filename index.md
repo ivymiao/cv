@@ -5,7 +5,7 @@ pdf: true
 ---
 # Xuanyi __Yu__
 
-<i class="fi-mail" style="text-align: middle"></i>
+<i class="fi-mail" style="text-align: center"></i>
 <a href="ivy08588@gmail.com" style="margin-left:0.5em">ivy08588@gmail.com</a>
 
 
@@ -23,11 +23,11 @@ Beijing, China
 ```
 - B.S. in Electronic Engineering
 
-__Related Courses and Score:__<br>
+_Related Courses and Score:_<br>
 
-_Advanced Matlab Programming and Its Application_  `93` <br>
-_Digital Signal Processing_   `92` <br>
-_Probability and Stochastic Processes (1)_ `100` <br>
+Advanced Matlab Programming and Its Application  `93` <br>
+Digital Signal Processing   `92` <br>
+Probability and Stochastic Processes (1) `100` <br>
 
 ## Experience
 
@@ -36,7 +36,7 @@ _Research Assistant_<br>
 - Advised by prof. Xi Xiao, on __Software Development of GMM-HMM Speech Recognition Based on DSP__ project
 - Ported a GMM-HMM phrase speech recognition software from PC to ADI ADSP-21469 digital signal processor, and developed several driver programs to communicate with peripherals on a ADSP-21469 custom board.
 - Intergrated a new function which can communicate with PC through UART to transfer information and data.
-- Rewrote kernel recoginition functions in assembly languages to improve the speed of software.
+- Rewrote kernel recoginition functions in assembly language to improve the speed of software.
 
 ### __University of California, Los Angeles, Perceptual Processing and Computational Lab__ `2017.7 - 2017.9`
 _Research Assistant_<br>
@@ -54,9 +54,6 @@ _Research Assistant_<br>
 
 ### __Stock Trends Prediction Based on Gaussian Process Regression__ `2017.1`
 - Used GPR to capture changes in stock price with kernel function, and predicted the stock price next day based on the prices before, implemented in MATLAB.
-
-### __Detection and Recognition of DTMF Signals__ `2016.11`
--	Detected and recognized DTMF signals based on Goertzel algorithm by C++.
 
 ### __Music Synthesis System Based on MATLAB__ `2016.6`
 - Synthesized melody based on the existing music scores, and analyzed and imitated the sounds of different instruments.
