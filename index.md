@@ -48,7 +48,7 @@ Analysed the social relationship and feature of the users who followed a same ho
 ### __Software Development of Image Processing Based on MATLAB__`2017.5`
 Designed a program with multiple functions as sharpening, smoothing and contrast enhancement, and rendered a GUI interface that enabled users to change parameters of image processing.
 
-### Real-time Action Recognition Based on Kinect and C# `2017.5`
+### __Real-time Action Recognition Based on Kinect and C#__ `2017.5`
 Collected human action information and defined the command for a certain posture, and completed the task of playing games with Kinect based on human motion recognition.
 
 ### __Stock Trends Prediction Based on Gaussian Process Regression__ `2017.1`
