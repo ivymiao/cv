@@ -59,8 +59,6 @@ Collected human action information and defined the command for a certain posture
 ### __Kernel Porting of VAD Tree in Windows__ `2016.12`
 Changed the VAD tree structure in the WRK source code from the AVL tree to a red-black tree, refer to Linux kernel code.
 
-### __Music Synthesis System__ `2016.6`
-Synthesized melody based on the existing music scores, and analyzed and imitated the sounds of different instruments.
 
 <!-- ### Footer
 
