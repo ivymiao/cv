@@ -27,9 +27,12 @@ Beijing, China
 ```
 - B.S. in Electronic Engineering
 
-__Related Courses and Scores__: Operating Systems(90) / Database(98) / Computer Network Technology and Experiment(95) / Data and Algorithm
+__Related Courses__: Operating Systems / Database / Computer Network Technology and Experiment / Data and Algorithm
 
 __Professional Skills__: C & C++ / Python / Java / Assembly Language
+
+## Online Portfolio
+[yuxuanyi-also-ivy](http://yuxuanyi-also-ivy.me)
 
 ## Experience
 
@@ -56,8 +59,18 @@ Designed a program with multiple functions as sharpening, smoothing and contrast
 ### __Real-time Action Recognition Based on Kinect__ `2017.5`
 Collected human action information and defined the command for a certain posture, and completed the task of playing games with Kinect based on human motion recognition.
 
+### __Stock Trends Prediction Based on Gaussian Process Regression__ `2017.1`
+Used GPR to capture changes in stock price with kernel function, and predicted the stock price next day based on the prices before.
+
 ### __Kernel Porting of VAD Tree in Windows__ `2016.12`
 Changed the VAD tree structure in the WRK source code from the AVL tree to a red-black tree, refer to Linux kernel code.
+
+### __Detection and Recognition of DTMF Signals__ `2016.11`
+Detected and recognized DTMF signals based on Goertzel algorithm by C++.
+
+### __Music Synthesis System__ `2016.6`
+Synthesized melody based on the existing music scores, and analyzed and imitated the sounds of different instruments.
+
 
 
 <!-- ### Footer
