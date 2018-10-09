@@ -63,7 +63,9 @@ body {
 strong {
 	font-weight: bold;
 }
-
+p {
+	text-align:justify;
+}
 p strong {
 	font-weight: bold;
 }
