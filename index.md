@@ -28,7 +28,7 @@ Beijing, China
 - B.S. in Electronic Engineering
 
 ## Online Portfolio
-http://yuxuanyi-also-ivy.me
+[yuxuanyi-also-ivy](http://yuxuanyi-also-ivy.me)
 
 ## Experience
 
