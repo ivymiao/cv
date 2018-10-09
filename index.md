@@ -35,7 +35,7 @@ Beijing, China
 ### __Tsinghua University, Speech Processing and Machine Intelligence Lab__  `2018.3 - 2018.6`
 _Research Assistant_<br>
 1) Advised by prof. Xi Xiao, on __Software Development of GMM-HMM Speech Recognition Based on DSP__ project, implemented in C++.<br>
-2) Ported a GMM-HMM phrase speech recognition software from PC to DSP, developed several driver programs to communicate with peripherals on a ADSP-21469 custom board.<br>
+2) Ported a GMM-HMM phrase speech recognition software from PC to DSP, developed several driver programs to communicate with peripherals      on a ADSP-21469 custom board.<br>
 3) Intergrated a new function which can communicate with PC through UART to transfer information and data.<br>
 4) Rewrote kernel recoginition functions in assembly language to improve the speed of software.
 
