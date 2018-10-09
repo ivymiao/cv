@@ -6,6 +6,8 @@ pdf: true
 # Xuanyi __Yu__
 
 <div id="webaddress">
+<i class="fi-home" style="margin-left:1em"></i>
+<a href="http://www.yuxuanyi-also-ivy.me" style="margin-left:0.5em">yuxuanyi-also-ivy.me</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="ivy08588@gmail.com" style="margin-left:0.5em">ivy08588@gmail.com</a>
 </div>
@@ -25,6 +27,9 @@ Beijing, China
 ```
 - B.S. in Electronic Engineering
 
+## Online Portfolio
+http://yuxuanyi-also-ivy.me
+
 ## Experience
 
 ### __Tsinghua University, Speech Processing and Machine Intelligence Lab__  `2018.3 - 2018.6`
@@ -40,11 +45,11 @@ Worked with prof. Zili Liu, on __[Computational Motion Processing](https://zilil
 ### __Social Network Analysis of Weibo Hot Topics Based on Python__ `2017.6`
 Analysed the social relationship and feature of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social relationship by drawing directed graph.
 
+### Real-time Action Recognition Based on Kinect and C# `2017.5`
+Collected human action information and defined the command for a certain posture, and completed the task of playing games with Kinect based on human motion recognition.
+
 ### __Software Development of Image Processing Based on MATLAB__`2017.5`
 Designed a program with multiple functions as sharpening, smoothing and contrast enhancement, and rendered a GUI interface that enabled users to change parameters of image processing.
-
-### __Stock Trends Prediction Based on Gaussian Process Regression__ `2017.1`
-Used GPR to capture changes in stock price with kernel function, and predicted the stock price next day based on the prices before, implemented in MATLAB.
 
 ### __Music Synthesis System Based on MATLAB__ `2016.6`
 Synthesized melody based on the existing music scores, and analyzed and imitated the sounds of different instruments.
