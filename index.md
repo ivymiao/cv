@@ -5,8 +5,10 @@ pdf: true
 ---
 # Xuanyi __Yu__
 
-<i class="fi-mail" style="align：center"></i>
-<a href="ivy08588@gmail.com" style="text-align: center">ivy08588@gmail.com</a>
+<div id="webaddress">
+<i class="fi-mail" style="margin-left:1em"></i>
+<a href="ivy08588@gmail.com" style="margin-left:0.5em">ivy08588@gmail.com</a>
+</div>
 
 
 ## Education
