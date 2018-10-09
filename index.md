@@ -27,6 +27,10 @@ Beijing, China
 ```
 - B.S. in Electronic Engineering
 
+__Related Courses and Scores__: Operating Systems(90) / Database(98) / Computer Network Technology and Experiment(95) / Data and Algorithm
+
+__Professional Skills__: C & C++ / Python / Java / Assembly Language
+
 ## Online Portfolio
 [yuxuanyi-also-ivy](http://yuxuanyi-also-ivy.me)
 
@@ -34,7 +38,7 @@ Beijing, China
 
 ### __Tsinghua University, Speech Processing and Machine Intelligence Lab__  `2018.3 - 2018.6`
 _Research Assistant_<br>
-1)  Advised by prof. Xi Xiao, on __Software Development of GMM-HMM Speech Recognition Based on DSP__ project, implemented in C++.<br>
+1)  Advised by prof. Xi Xiao, on __Software Development of GMM-HMM Speech Recognition Based on DSP__ project, implemented in __C++__.<br>
 2)  Ported a GMM-HMM phrase speech recognition software from PC to DSP, developed several driver programs to communicate with peripherals    on a ADSP-21469 custom board.<br>
 3)  Intergrated a new function which can communicate with PC through UART to transfer information and data.<br>
 4)  Rewrote kernel recoginition functions in assembly language to improve the speed of software.
@@ -52,7 +56,7 @@ Analysed the social relationship and feature of the users who followed a same ho
 ### __Software Development of Image Processing Based on MATLAB__`2017.5`
 Designed a program with multiple functions as sharpening, smoothing and contrast enhancement, and rendered a GUI interface that enabled users to change parameters of image processing.
 
-### __Real-time Action Recognition Based on Kinect__ `2017.5`
+### Real-time Action Recognition Based on Kinect and C# `2017.5`
 Collected human action information and defined the command for a certain posture, and completed the task of playing games with Kinect based on human motion recognition.
 
 ### __Stock Trends Prediction Based on Gaussian Process Regression__ `2017.1`
@@ -61,11 +65,12 @@ Used GPR to capture changes in stock price with kernel function, and predicted t
 ### __Kernel Porting of VAD Tree in Windows__ `2016.12`
 Changed the VAD tree structure in the WRK source code from the AVL tree to a red-black tree, refer to Linux kernel code.
 
-### __Detection and Recognition of DTMF Signals__ `2016.11`
+### __Detection and Recognition of DTMF Signals __ `2016.11`
 Detected and recognized DTMF signals based on Goertzel algorithm by C++.
 
 ### __Music Synthesis System Based on MATLAB__ `2016.6`
 Synthesized melody based on the existing music scores, and analyzed and imitated the sounds of different instruments.
+
 
 
 <!-- ### Footer
