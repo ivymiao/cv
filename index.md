@@ -27,14 +27,11 @@ Beijing, China
 ```
 - B.S. in Electronic Engineering
 
-## Online Portfolio
-[yuxuanyi-also-ivy](http://yuxuanyi-also-ivy.me)
-
 ## Experience
 
 ### __Tsinghua University, Speech Processing and Machine Intelligence Lab__  `2018.3 - 2018.6`
 _Research Assistant_<br>
-Advised by prof. Xi Xiao, on __Software Development of GMM-HMM Speech Recognition Based on DSP__ project, I ported a GMM-HMM phrase speech recognition software from PC to digital signal processor, developed several driver programs to communicate with peripherals on a ADSP-21469 custom board, intergrated a new function which can communicate with PC through UART to transfer information and data, and rewrote kernel recoginition functions in assembly language to improve the speed of software.
+Advised by prof. Xi Xiao, on __Software Development of GMM-HMM Speech Recognition Based on DSP__ project, implemented in C++, I ported a GMM-HMM phrase speech recognition software from PC to digital signal processor, developed several driver programs to communicate with peripherals on a ADSP-21469 custom board, intergrated a new function which can communicate with PC through UART to transfer information and data, and rewrote kernel recoginition functions in assembly language to improve the speed of software.
 
 ### __University of California, Los Angeles, Perceptual Processing and Computational Lab__ `2017.7 - 2017.9`
 _Research Assistant_<br>
@@ -48,10 +45,13 @@ Analysed the social relationship and feature of the users who followed a same ho
 ### __Real-time Action Recognition Based on Kinect and C#__ `2017.5`
 Collected human action information and defined the command for a certain posture, and completed the task of playing games with Kinect based on human motion recognition.
 
-### __Software Development of Image Processing Based on MATLAB__`2017.5`
+### __Software Development of Image Processing__`2017.5`
 Designed a program with multiple functions as sharpening, smoothing and contrast enhancement, and rendered a GUI interface that enabled users to change parameters of image processing.
 
-### __Music Synthesis System Based on MATLAB__ `2016.6`
+### __Kernel Porting of VAD Tree in Windows__ `2016.12`
+Changed the VAD tree structure in the WRK source code from the AVL tree to a red-black tree, refer to Linux kernel code.
+
+### __Music Synthesis System__ `2016.6`
 Synthesized melody based on the existing music scores, and analyzed and imitated the sounds of different instruments.
 
 <!-- ### Footer
