@@ -57,7 +57,7 @@ Used GPR to capture changes in stock price with kernel function, and predicted t
 ### __Kernel Porting of VAD Tree in Windows__ `2016.12`
 Changed the VAD tree structure in the WRK source code from the AVL tree to a red-black tree, refer to Linux kernel code.
 
-### __Detection and Recognition of DTMF Signals __ `2016.11`
+### __Detection and Recognition of DTMF Signals__ `2016.11`
 Detected and recognized DTMF signals based on Goertzel algorithm by C++.
 
 ### __Music Synthesis System Based on MATLAB__ `2016.6`
