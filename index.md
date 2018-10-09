@@ -27,9 +27,12 @@ Beijing, China
 ```
 - B.S. in Electronic Engineering
 
+
 __Related Courses and Scores__: Operating Systems(90) / Database(98) / Computer Network Technology and Experiment(95) / Data and Algorithm
 
+
 __Professional Skills__: C & C++ / Python / Java / Assembly Language
+
 
 ## Online Portfolio
 [yuxuanyi-also-ivy](http://yuxuanyi-also-ivy.me)
