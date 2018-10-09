@@ -35,7 +35,7 @@ Beijing, China
 ### __Tsinghua University, Speech Processing and Machine Intelligence Lab__  `2018.3 - 2018.6`
 _Research Assistant_<br>
 1) Advised by prof. Xi Xiao, on __Software Development of GMM-HMM Speech Recognition Based on DSP__ project, implemented in C++.<br>
-2) Ported a GMM-HMM phrase speech recognition software from PC to DSP, developed several driver programs to communicate with peripherals      on a ADSP-21469 custom board.<br>
+2) Ported a GMM-HMM phrase speech recognition software from PC to DSP, developed several driver programs to communicate with peripherals    on a ADSP-21469 custom board.<br>
 3) Intergrated a new function which can communicate with PC through UART to transfer information and data.<br>
 4) Rewrote kernel recoginition functions in assembly language to improve the speed of software.
 
@@ -46,7 +46,7 @@ Used the best possible SVM to conduct multivarite pattern analysis on our fMRI d
 
 ## Selected Projects
 
-### __Social Network Analysis of Weibo Hot Topics Based on Python__ `2017.6`
+### __[Social Network Analysis of Weibo Hot Topics Based on Python](http://yuxuanyi-also-ivy.me/2018/10/08/Social-network-analysis/)__ `2017.6`
 Analysed the social relationship and feature of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social relationship by drawing directed graph.
 
 ### __Software Development of Image Processing Based on MATLAB__`2017.5`
