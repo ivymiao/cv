@@ -34,15 +34,15 @@ Beijing, China
 
 ### __Tsinghua University, Speech Processing and Machine Intelligence Lab__  `2018.3 - 2018.6`
 _Research Assistant_<br>
-1) Advised by prof. Xi Xiao, on __Software Development of GMM-HMM Speech Recognition Based on DSP__ project, implemented in C++.<br>
-2) Ported a GMM-HMM phrase speech recognition software from PC to DSP, developed several driver programs to communicate with peripherals    on a ADSP-21469 custom board.<br>
-3) Intergrated a new function which can communicate with PC through UART to transfer information and data.<br>
-4) Rewrote kernel recoginition functions in assembly language to improve the speed of software.
+1)  Advised by prof. Xi Xiao, on __Software Development of GMM-HMM Speech Recognition Based on DSP__ project, implemented in C++.<br>
+2)  Ported a GMM-HMM phrase speech recognition software from PC to DSP, developed several driver programs to communicate with peripherals    on a ADSP-21469 custom board.<br>
+3)  Intergrated a new function which can communicate with PC through UART to transfer information and data.<br>
+4)  Rewrote kernel recoginition functions in assembly language to improve the speed of software.
 
 ### __University of California, Los Angeles, Perceptual Processing and Computational Lab__ `2017.7 - 2017.9`
 _Research Assistant_<br>
-Worked with prof. Zili Liu, on __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/computational-motion-processing/)__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM). <br>
-Used the best possible SVM to conduct multivarite pattern analysis on our fMRI data from the entire MT, and finally proved that suppressed MT still could process directional information under motion opponency.
+1) Worked with prof. Zili Liu, on __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/computational-motion-processing/)__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM). <br>
+2) Used the best possible SVM to conduct multivarite pattern analysis on our fMRI data from the entire MT, and finally proved that suppressed MT still could process directional information under motion opponency.
 
 ## Selected Projects
 
