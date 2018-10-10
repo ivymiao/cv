@@ -27,7 +27,7 @@ Beijing, China
 ```
 - B.S. in Electronic Engineering
 
-__Professional Skills__: C & C++ / Python / Java / Assembly Language
+__Professional Skills__: C & C++ / Python / Java / Assembly Language / MATLAB
 
 ## Experience
 
