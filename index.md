@@ -27,7 +27,12 @@ Beijing, China
 ```
 - B.S. in Electronic Engineering
 
+__Related Courses and Scores__: Operating Systems(90) / Database(98) / Computer Network Technology and Experiment(95) / Data and Algorithm
+
 __Professional Skills__: C & C++ / Python / Java / Assembly Language / MATLAB
+
+## Online Portfolio
+[yuxuanyi-also-ivy](http://yuxuanyi-also-ivy.me)
 
 ## Experience
 
@@ -40,12 +45,12 @@ _Research Assistant_<br>
 
 ### __University of California, Los Angeles, Perceptual Processing and Computational Lab__ `2017.7 - 2017.9`
 _Research Assistant_<br>
-1) Worked with prof. Zili Liu, on __Computational Motion Processing__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM). <br>
+1) Worked with prof. Zili Liu, on __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/computational-motion-processing/)__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM). <br>
 2) Used the best possible SVM to conduct multivarite pattern analysis on our fMRI data from the entire MT, and finally proved that suppressed MT still could process directional information under motion opponency.
 
 ## Selected Projects
 
-### __Social Network Analysis of Weibo Hot Topics Based on Python__ `2017.6`
+### __[Social Network Analysis of Weibo Hot Topics Based on Python](http://yuxuanyi-also-ivy.me/2018/10/08/Social-network-analysis/)__ `2017.6`
 Analysed the social relationship and feature of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social relationship by drawing directed graph.
 
 ### __Software Development of Image Processing__`2017.5`
@@ -54,11 +59,18 @@ Designed a program with multiple functions as sharpening, smoothing and contrast
 ### __Real-time Action Recognition Based on Kinect__ `2017.5`
 Collected human action information and defined the command for a certain posture, and completed the task of playing games with Kinect based on human motion recognition.
 
+### __Stock Trends Prediction Based on Gaussian Process Regression__ `2017.1`
+Used GPR to capture changes in stock price with kernel function, and predicted the stock price next day based on the prices before.
+
 ### __Kernel Porting of VAD Tree in Windows__ `2016.12`
 Changed the VAD tree structure in the WRK source code from the AVL tree to a red-black tree, refer to Linux kernel code.
 
+### __Detection and Recognition of DTMF Signals__ `2016.11`
+Detected and recognized DTMF signals based on Goertzel algorithm by C++.
+
 ### __Music Synthesis System__ `2016.6`
 Synthesized melody based on the existing music scores, and analyzed and imitated the sounds of different instruments.
+
 
 
 
