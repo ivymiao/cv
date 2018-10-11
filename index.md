@@ -51,13 +51,13 @@ _Research Assistant_
 
 _Research Assistant_
 
-### __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/computational-motion-processing/)__, a computational study on motion processing and learning in the brain, using support vector machines (SVM).
+### __Computational Motion Processing__, a computational study on motion processing and learning in the brain, using support vector machines (SVM).
 
 &ensp; - __Multivariate Pattern Analysis__: Found the best possible SVM classifier model on fMRI data from different areas of brain, using grid search and cross validation.
 
 ## Selected Projects
 
-__[Social Network Analysis of Weibo Hot Topics Based on Python](http://yuxuanyi-also-ivy.me/2018/10/08/Social-network-analysis/)__:	Analyzed the social relationship and characteristics of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social network.
+__Social Network Analysis of Weibo Hot Topics Based on Python__:	Analyzed the social relationship and characteristics of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social network.
 
 __Greedy Snake Game Design__: Implemented a Greedy Snake game with keyboard control, about 2000-line in C++.
 
@@ -68,12 +68,6 @@ __Kernel Porting of VAD Tree in Windows__: Changed the VAD tree structure in the
 __32-Bit MIPS Processor Design__: Designed a five-staged pipelined MIPS processor, about 2000-line in Verilog.
 
 __Software Development of Image Processing__: Designed a program with multiple functions as sharpening, smoothing and contrast enhancement, and rendered a GUI interface that enabled users to change parameters of image processing.
-
-__Real-time Action Recognition Based on Kinect__: Collected human action information and defined the command for a certain posture, and completed the task of playing games with Kinect based on human motion recognition.
-
-__Stock Trends Prediction Based on Gaussian Process Regression__: Used GPR to capture changes in stock price with kernel function, and predicted the stock price next day based on the prices before.
-
-__Detection and Recognition of DTMF Signals__: Detected and recognized DTMF signals based on Goertzel algorithm by C++.
 
 
 
