@@ -58,7 +58,7 @@ __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/comp
 ## Selected Projects
 - __[Social Network Analysis of Weibo Hot Topics Based on Python](http://yuxuanyi-also-ivy.me/2018/10/08/Social-network-analysis/)__:	Analyzed the social relationship and characteristics of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social nerwork.
 
-- __Greedy Snake Game Design__: Implemented a Greedy Snake game with keyboard control, about 3000-line in C++.
+-__Greedy Snake Game Design__: Implemented a Greedy Snake game with keyboard control, about 3000-line in C++.
 
 - __Music Synthesis System__: Synthesized melody with music scores, analyzed and imitated the sounds of different instruments.
 
