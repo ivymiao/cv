@@ -37,7 +37,7 @@ Beijing, China
 
 _Research Assistant_
 
-### __Software Development of GMM-HMM Speech Recognition System Based on DSP, about 7000-line in C++__
+### __Software Development of GMM-HMM Speech Recognition System Based on DSP__, about 7000-line in __C++__
 
 &ensp; - __Phrase Recognition__: Developed a command control system to carry on noun phrase speech identification.
 
