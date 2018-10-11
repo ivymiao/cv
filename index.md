@@ -37,7 +37,7 @@ Beijing, China
 
 _Research Assistant_
 
-### Software Development of GMM-HMM Speech Recognition System Based on DSP, about 7000-line in C++.
+### __Software Development of GMM-HMM Speech Recognition System Based on DSP, about 7000-line in C++__
 
 &ensp; - __Phrase Recognition__: Developed a command control system to carry on noun phrase speech identification.
 
@@ -51,7 +51,7 @@ _Research Assistant_
 
 _Research Assistant_
 
-__[Computational Motion Processing](https://zililab.psych.ucla.edu/research/computational-motion-processing/)__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM).
+### __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/computational-motion-processing/)__, a computational study on motion processing and learning in the brain, using support vector machines (SVM).
 
 &ensp; - __Multivariate Pattern Analysis__: Found the best possible SVM classifier model on fMRI data from different areas of brain, using grid search and cross validation.
 
@@ -59,7 +59,7 @@ __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/comp
 
 __[Social Network Analysis of Weibo Hot Topics Based on Python](http://yuxuanyi-also-ivy.me/2018/10/08/Social-network-analysis/)__:	Analyzed the social relationship and characteristics of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social nerwork.
 
-__Greedy Snake Game Design__: Implemented a Greedy Snake game with keyboard control, about 3000-line in C++.
+__Greedy Snake Game Design__: Implemented a Greedy Snake game with keyboard control, about 2000-line in C++.
 
 __Music Synthesis System__: Synthesized melody with music scores, analyzed and imitated the sounds of different instruments.
 
