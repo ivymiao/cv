@@ -37,9 +37,9 @@ Beijing, China
 
 _Research Assistant_, on __Software Development of GMM-HMM Speech Recognition System Based on DSP__ project, about 5000-line implemented in __C++__.
 
-  __Phrase Recognition__: Developed a command control system to carry on noun phrase identification.
- 
-  __Program porting__: Ported the GMM-HMM phrase speech recognition software from PC to DSP.
+&ensp;__Phrase Recognition__: Developed a command control system to carry on noun phrase identification.
+
+&ensp;__Program porting__: Ported the GMM-HMM phrase speech recognition software from PC to DSP.
 
   __Function Integration__: Developed several driver programs to communicate with peripherals.
 
