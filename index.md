@@ -19,57 +19,59 @@ pdf: true
 ```
 San Diego, CA
 ```
- - Master in Computer Science
+ - M.S. in Computer Science
 
 ### __Tsinghua University__ `2014.9 - 2018.7`
 ```
 Beijing, China
 ```
- - B.S. in Electronic Engineering
+ - B.E. in Electronic Engineering
 
-__Related Courses and Scores__: Operating Systems(90) / Database(98) / Computer Network Technology and Experiment(95) / Data and Algorithm
+###__Related Courses__: Operating Systems / Database / Computer Network Technology and Experiment / Data and Algorithm
 
-__Professional Skills__: C & C++ / Python / Java / Assembly Language / MATLAB
+###__Professional Skills__: C++ / Python / Java / Html / CSS / Verilog / Assembly Language
 
 ## Online Portfolio
 [yuxuanyi-also-ivy](http://yuxuanyi-also-ivy.me)
 
 ## Experience
 
-### __Tsinghua University, Speech Processing and Machine Intelligence Lab__  `2018.3 - 2018.6`
-_Research Assistant_<br>
-1)  Advised by prof. Xi Xiao, on __Software Development of GMM-HMM Speech Recognition Based on DSP__ project, implemented in __C++__.<br>
-2)  Ported a GMM-HMM phrase speech recognition software from PC to DSP, developed several driver programs to communicate with peripherals    on a ADSP-21469 custom board.<br>
-3)  Intergrated a new function which can communicate with PC through UART to transfer information and data.<br>
-4)  Rewrote kernel recoginition functions in assembly language to improve the speed of software.
+### __Speech Processing and Machine Intelligence Lab, Tsinghua University__  `2018.3 - 2018.6`
+```
+Beijing, China
+```
+_Research Assistant_, on __Software Development of GMM-HMM Speech Recognition System Based on DSP__ project, about 5000-line implemented in __C++__.
+__Phrase Recognition__: Developed a command control system to carry on noun phrase identification.<br>
+__Program porting__: Ported the GMM-HMM phrase speech recognition software from PC to DSP.<br>
+__Function Integration__: Developed several driver programs to communicate with peripherals.<br>
+__System Optimization__: Rewrote recoginition functions in assembly language to improve the speed of software.
 
-### __University of California, Los Angeles, Perceptual Processing and Computational Lab__ `2017.7 - 2017.9`
-_Research Assistant_<br>
-1) Worked with prof. Zili Liu, on __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/computational-motion-processing/)__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM). <br>
-2) Used the best possible SVM to conduct multivarite pattern analysis on our fMRI data from the entire MT, and finally proved that suppressed MT still could process directional information under motion opponency.
+### __Perceptual Processing and Computational Lab，Dept. of Cognitive Psychology, UCLA__ `2017.7 - 2017.9`
+```
+Los Angeles, CA
+```
+_Research Assistant_, on __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/computational-motion-processing/)__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM). <br>
+__Multivariate Pattern Analysis__: Found the best possible SVM classifier model on fMRI data from different areas of brain, using grid search and cross validation.
 
 ## Selected Projects
 
-### __[Social Network Analysis of Weibo Hot Topics Based on Python](http://yuxuanyi-also-ivy.me/2018/10/08/Social-network-analysis/)__ `2017.6`
-Analysed the social relationship and feature of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social relationship by drawing directed graph.
+__[Social Network Analysis of Weibo Hot Topics](http://yuxuanyi-also-ivy.me/2018/10/08/Social-network-analysis/)__:	Analyzed the social relationship and characteristics of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social nerwork in Python.
 
-### __Software Development of Image Processing__`2017.5`
-Designed a program with multiple functions as sharpening, smoothing and contrast enhancement, and rendered a GUI interface that enabled users to change parameters of image processing.
+__Greedy Snake Game Design__: Implemented a Greedy Snake game with keyboard control, about 3000-line in C++.
 
-### __Real-time Action Recognition Based on Kinect__ `2017.5`
-Collected human action information and defined the command for a certain posture, and completed the task of playing games with Kinect based on human motion recognition.
+__Software Development of Image Processing__: Designed a program with multiple functions as sharpening, smoothing and contrast enhancement, and rendered a GUI interface that enabled users to change parameters of image processing.
 
-### __Stock Trends Prediction Based on Gaussian Process Regression__ `2017.1`
-Used GPR to capture changes in stock price with kernel function, and predicted the stock price next day based on the prices before.
+__Real-time Action Recognition Based on Kinect__: Collected human action information and defined the command for a certain posture, and completed the task of playing games with Kinect based on human motion recognition.
 
-### __Kernel Porting of VAD Tree in Windows__ `2016.12`
-Changed the VAD tree structure in the WRK source code from the AVL tree to a red-black tree, refer to Linux kernel code.
+__32-Bit MIPS Processor Design__: Designed single cycle MIPS processor and a five-staged pipelined MIPS processor, about .
 
-### __Detection and Recognition of DTMF Signals__ `2016.11`
-Detected and recognized DTMF signals based on Goertzel algorithm by C++.
+__Stock Trends Prediction Based on Gaussian Process Regression__: Used GPR to capture changes in stock price with kernel function, and predicted the stock price next day based on the prices before.
 
-### __Music Synthesis System__ `2016.6`
-Synthesized melody based on the existing music scores, and analyzed and imitated the sounds of different instruments.
+__Kernel Porting of VAD Tree in Windows__: Changed the VAD tree structure in the WRK source code from the AVL tree to a red-black tree, refer to Linux kernel code.
+
+__Detection and Recognition of DTMF Signals__: Detected and recognized DTMF signals based on Goertzel algorithm by C++.
+
+__Music Synthesis System__: Synthesized melody with music scores, analyzed and imitated the sounds of different instruments.
 
 
 
