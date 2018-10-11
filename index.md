@@ -33,13 +33,9 @@ Beijing, China
 
 ## Experience
 
-### __Speech Processing and Machine Intelligence Lab, Tsinghua University__  `2018.3 - 2018.6`
-```
-Beijing, China
-```
-_Research Assistant_
+### __Speech Processing and Machine Intelligence Lab, Tsinghua University__  `Beijing, China, 2018.3 - 2018.6 `
 
-on __Software Development of GMM-HMM Speech Recognition System Based on DSP__ project, about 5000-line implemented in __C++__.
+_Research Assistant_, on __Software Development of GMM-HMM Speech Recognition System Based on DSP__ project, about 5000-line implemented in __C++__.
 
 __Phrase Recognition__: Developed a command control system to carry on noun phrase identification.
 
@@ -49,13 +45,9 @@ __Function Integration__: Developed several driver programs to communicate with 
 
 __System Optimization__: Rewrote recoginition functions in assembly language to improve the speed of software.
 
-### __Perceptual Processing and Computational Lab，Dept. of Cognitive Psychology, UCLA__ `2017.7 - 2017.9`
-```
-Los Angeles, CA
-```
-_Research Assistant_
+### __Perceptual Processing and Computational Lab，Dept. of Cognitive Psychology, UCLA__ `Los Angeles, CA, 2017.7 - 2017.9`
 
-on __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/computational-motion-processing/)__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM).
+_Research Assistant_, on __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/computational-motion-processing/)__ project, a computational study on motion processing and learning in the brain, using support vector machines (SVM).
 
 __Multivariate Pattern Analysis__: Found the best possible SVM classifier model on fMRI data from different areas of brain, using grid search and cross validation.
 
