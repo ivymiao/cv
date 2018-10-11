@@ -19,13 +19,13 @@ pdf: true
 ```
 San Diego, CA
 ```
-- Master in Computer Science
+ - Master in Computer Science
 
 ### __Tsinghua University__ `2014.9 - 2018.7`
 ```
 Beijing, China
 ```
-- B.S. in Electronic Engineering
+ - B.S. in Electronic Engineering
 
 __Related Courses and Scores__: Operating Systems(90) / Database(98) / Computer Network Technology and Experiment(95) / Data and Algorithm
 
