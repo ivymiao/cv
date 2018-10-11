@@ -51,7 +51,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 11pt;
+	font-size: 9pt;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: "Helvetica",sans-serif;
@@ -94,7 +94,7 @@ h1 strong {
 /* Section headers */
 h2 {
 	font-family: "Avenir Next",sans-serif;
-	font-size: 20pt;
+	font-size: 15pt;
 	text-align: center;
 	font-weight: normal;
 	display: flex;
@@ -117,6 +117,7 @@ h3 strong {
 
 h3 {
 	margin-top: 10px;
+	font-size: 11px
 }
 
 
