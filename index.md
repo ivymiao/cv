@@ -31,9 +31,6 @@ Beijing, China
 
 ### __Professional Skills__: C++ / Python / Java / Html / CSS / Verilog / Assembly Language
 
-## Online Portfolio
-[yuxuanyi-also-ivy](http://yuxuanyi-also-ivy.me)
-
 ## Experience
 
 ### __Speech Processing and Machine Intelligence Lab, Tsinghua University__  `2018.3 - 2018.6`
