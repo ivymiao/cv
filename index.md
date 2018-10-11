@@ -39,13 +39,13 @@ _Research Assistant_
 
 __Software Development of GMM-HMM Speech Recognition System Based on DSP__ project, about 5000-line implemented in __C++__.
 
-&ensp; - __Phrase Recognition__: Developed a command control system to carry on noun phrase identification.
+&ensp; - __Phrase Recognition__: Developed a command control system to carry on noun phrase speech identification.
 
 &ensp; - __Program porting__: Ported the GMM-HMM phrase speech recognition software from PC to DSP.
 
-&ensp; - __Function Integration__: Developed several driver programs to communicate with peripherals.
+&ensp; - __Function Integration__: Developed driver programs to communicate with peripherals.
 
-&ensp; - __System Optimization__: Rewrote recoginition functions in assembly language to improve the speed of software.
+&ensp; - __System Optimization__: Wrote functions in assembly language to improve the speed of software.
 
 ### __Perceptual Processing and Computational Lab，Dept. of Cognitive Psychology, UCLA__ `Los Angeles, CA, 2017.7 - 2017.9`
 
@@ -57,23 +57,23 @@ __[Computational Motion Processing](https://zililab.psych.ucla.edu/research/comp
 
 ## Selected Projects
 
-&ensp; - __[Social Network Analysis of Weibo Hot Topics Based on Python](http://yuxuanyi-also-ivy.me/2018/10/08/Social-network-analysis/)__:	Analyzed the social relationship and characteristics of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social nerwork.
+ - __[Social Network Analysis of Weibo Hot Topics Based on Python](http://yuxuanyi-also-ivy.me/2018/10/08/Social-network-analysis/)__:	Analyzed the social relationship and characteristics of the users who followed a same hot Weibo(Chinese Twitter) topic, and conducted visualization of user’s social nerwork.
 
-&ensp; - __Greedy Snake Game Design__: Implemented a Greedy Snake game with keyboard control, about 3000-line in C++.
+ - __Greedy Snake Game Design__: Implemented a Greedy Snake game with keyboard control, about 3000-line in C++.
 
-&ensp; - __Music Synthesis System__: Synthesized melody with music scores, analyzed and imitated the sounds of different instruments.
+ - __Music Synthesis System__: Synthesized melody with music scores, analyzed and imitated the sounds of different instruments.
 
-&ensp; - __Kernel Porting of VAD Tree in Windows__: Changed the VAD tree structure in the WRK source code from the AVL tree to a red-black tree, refer to Linux kernel code.
+ - __Kernel Porting of VAD Tree in Windows__: Changed the VAD tree structure in the WRK source code from the AVL tree to a red-black tree, refer to Linux kernel code.
 
-&ensp; - __32-Bit MIPS Processor Design__: Designed a five-staged pipelined MIPS processor, about 2000-line in Verilog.
+ - __32-Bit MIPS Processor Design__: Designed a five-staged pipelined MIPS processor, about 2000-line in Verilog.
 
-&ensp; - __Software Development of Image Processing__: Designed a program with multiple functions as sharpening, smoothing and contrast enhancement, and rendered a GUI interface that enabled users to change parameters of image processing.
+ - __Software Development of Image Processing__: Designed a program with multiple functions as sharpening, smoothing and contrast enhancement, and rendered a GUI interface that enabled users to change parameters of image processing.
 
-&ensp; - __Real-time Action Recognition Based on Kinect__: Collected human action information and defined the command for a certain posture, and completed the task of playing games with Kinect based on human motion recognition.
+ - __Real-time Action Recognition Based on Kinect__: Collected human action information and defined the command for a certain posture, and completed the task of playing games with Kinect based on human motion recognition.
 
-&ensp; - __Stock Trends Prediction Based on Gaussian Process Regression__: Used GPR to capture changes in stock price with kernel function, and predicted the stock price next day based on the prices before.
+ - __Stock Trends Prediction Based on Gaussian Process Regression__: Used GPR to capture changes in stock price with kernel function, and predicted the stock price next day based on the prices before.
 
-&ensp; - __Detection and Recognition of DTMF Signals__: Detected and recognized DTMF signals based on Goertzel algorithm by C++.
+ - __Detection and Recognition of DTMF Signals__: Detected and recognized DTMF signals based on Goertzel algorithm by C++.
 
 
 
